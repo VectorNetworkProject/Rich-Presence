@@ -1,0 +1,14 @@
+{
+  "name": "rich-presence",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/VectorNetworkProject/Rich-Presence.git",
+  "author": "InkoHX",
+  "license": "MIT",
+  "dependencies": {
+    "discord-rich-presence": "^0.0.7"
+  },
+  "devDependencies": {
+    "pkg": "^4.3.4"
+  }
+}
